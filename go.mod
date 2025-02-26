@@ -40,7 +40,7 @@ require (
 	github.com/favadi/protoc-go-inject-tag v1.4.0
 	github.com/gammazero/workerpool v1.1.3
 	github.com/go-errors/errors v1.4.2
-	github.com/go-jose/go-jose/v3 v3.0.3
+	github.com/go-jose/go-jose/v3 v3.0.4
 	github.com/go-ldap/ldap/v3 v3.4.4
 	github.com/go-ldap/ldif v0.0.0-20200320164324-fd88d9b715b3
 	github.com/go-sql-driver/mysql v1.6.0
@@ -143,14 +143,14 @@ require (
 	go.opentelemetry.io/otel/trace v1.19.0
 	go.uber.org/atomic v1.11.0
 	go.uber.org/goleak v1.2.1
-	golang.org/x/crypto v0.29.0
+	golang.org/x/crypto v0.31.0
 	golang.org/x/exp v0.0.0-20240604190554-fc45aab8b7f8
-	golang.org/x/net v0.31.0
+	golang.org/x/net v0.33.0
 	golang.org/x/oauth2 v0.21.0
-	golang.org/x/sync v0.9.0
-	golang.org/x/sys v0.27.0
-	golang.org/x/term v0.26.0
-	golang.org/x/text v0.20.0
+	golang.org/x/sync v0.10.0
+	golang.org/x/sys v0.28.0
+	golang.org/x/term v0.27.0
+	golang.org/x/text v0.21.0
 	golang.org/x/tools v0.22.0
 	google.golang.org/api v0.149.0
 	google.golang.org/grpc v1.62.1
@@ -305,7 +305,7 @@ require (
 	github.com/openbao/openbao/api/auth/kubernetes v0.0.0-20240227182507-a8c90d250c17 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/opencontainers/image-spec v1.1.0 // indirect
-	github.com/opencontainers/runc v1.1.12 // indirect
+	github.com/opencontainers/runc v1.2.0 // indirect
 	github.com/opentracing/opentracing-go v1.2.1-0.20220228012449-10b1cf09e00b // indirect
 	github.com/oracle/oci-go-sdk/v60 v60.0.0 // indirect
 	github.com/packethost/packngo v0.1.1-0.20180711074735-b9cb5096f54c // indirect
