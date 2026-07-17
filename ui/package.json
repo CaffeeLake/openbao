@@ -97,7 +97,7 @@
     "columnify": "^1.5.4",
     "date-fns": "^4.1.0",
     "deepmerge": "^4.3.1",
-    "dompurify": "^3.0.2",
+    "dompurify": "^3.4.11",
     "ember-auto-import": "2.10.0",
     "ember-basic-dropdown": "6.0.1",
     "ember-cli": "~4.12.3",
@@ -157,7 +157,7 @@
     "filesize": "^4.2.1",
     "flat": "^6.0.1",
     "globals": "^16.4.0",
-    "jsondiffpatch": "^0.4.1",
+    "jsondiffpatch": "^0.7.2",
     "jsonlint": "^1.6.3",
     "lint-staged": "^15.4.1",
     "loader.js": "^4.7.0",
@@ -173,7 +173,7 @@
     "rollup": "^1.20.0",
     "sass": "^1.58.3",
     "sass-svg-uri": "^2.0.0",
-    "shell-quote": "^1.8.2",
+    "shell-quote": "^1.8.4",
     "sinon": "^22.0.0",
     "stylelint": "^15.4.0",
     "stylelint-config-standard": "^32.0.0",
@@ -230,7 +230,7 @@
     "@hashicorp/design-system-tokens": "^1.5.0",
     "@hashicorp/flight-icons": "^2.0.0",
     "handlebars": "4.7.9",
-    "uuid": "^11.1.0"
+    "uuid": "^14.0.0"
   },
   "packageManager": "pnpm@10.34.4",
   "scarfSettings": {
