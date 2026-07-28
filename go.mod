@@ -42,7 +42,7 @@ require (
 	github.com/go-viper/mapstructure/v2 v2.5.0
 	github.com/gocql/gocql v1.7.0
 	github.com/golang-jwt/jwt/v4 v4.5.2
-	github.com/google/cel-go v0.28.1
+	github.com/google/cel-go v0.29.0
 	github.com/google/go-containerregistry v0.21.7
 	github.com/google/go-metrics-stackdriver v0.2.0
 	github.com/hashicorp/cap v0.13.0
@@ -139,7 +139,7 @@ require (
 	golang.org/x/term v0.44.0
 	golang.org/x/text v0.39.0
 	google.golang.org/api v0.287.0
-	google.golang.org/grpc v1.82.0
+	google.golang.org/grpc v1.82.1
 	google.golang.org/protobuf v1.36.11
 	gopkg.in/jcmturner/goidentity.v3 v3.0.0
 	k8s.io/api v0.35.4
